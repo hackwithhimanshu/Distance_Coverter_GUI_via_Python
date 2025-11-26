@@ -41,7 +41,7 @@ screenshot.png       # App preview image
 
 ### **1. Clone or download the project**
 ```bash
-git clone https://github.com/your-username/Distance_Converter_GUI_via_Python.git
+git clone https://github.com/hackwithhimanshu/Distance_Converter_GUI_via_Python.git
 cd Distance_Converter_GUI_via_Python
 ```
 
